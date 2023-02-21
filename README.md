@@ -1,5 +1,5 @@
 # React
-React is one of the most popular front-end frameworks. let's not take it for granted and use it effectively and elegantly. 
+React is one of the most popular front-end frameworks. Let's not take it for granted and use it effectively and elegantly. 
 
 This project demonstrates modular react workflow with an emphasis on separation of concerns leveraging redux, redux-thunk, selectors, styled-components, and testing.
 
