@@ -5,10 +5,6 @@ This project demonstrates modular react workflow with an emphasis on separation 
 
 ## Getting Started
 
-### Dependencies
-
-* < React v17
-
 ### Installing
 
 * npm packages (from the project root directory 'react')
